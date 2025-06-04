@@ -51,19 +51,19 @@ const portfolio = [
     name: "Step 1",
     description:
       "Go to the Google Drive Link https://drive.google.com/file/d/1fp5voobGazIM8B6N9DrbpgYpoUp4unWm/view?usp=drive_link" ,
-    image: oscs,
+    // image: oscs,
   },
   {
     name: "Step 2",
     description:
       "Install and Unzip the file",
-    image: devnotes,
+    //image: devnotes,
   },
   {
     name: "Step 3",
     description:
       "Run and take a peek!",
-    image: devnotes,
+    //image: devnotes,
   },
 
 ];

@@ -10,13 +10,10 @@ export const navLinks = [
     title: "Hero",
   },
   {
-    id: "portfolio",
-    title: "Portfolio",
+    id: "installation",
+    title: "Install Instructions",
   },
-  {
-    id: "experience",
-    title: "Experience",
-  },
+
   {
     id: "contact",
     title: "Contact",

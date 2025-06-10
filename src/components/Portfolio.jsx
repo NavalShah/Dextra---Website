@@ -66,4 +66,4 @@ const Portfolio = () => {
   );
 };
 
-export default SectionWrapper(Portfolio, "portfolio");
+export default SectionWrapper(Portfolio, "portfolio"); 

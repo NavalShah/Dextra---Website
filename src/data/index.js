@@ -10,10 +10,13 @@ export const navLinks = [
     title: "Hero",
   },
   {
-    id: "installation",
-    title: "Install Instructions",
+    id: "portfolio",
+    title: "Portfolio",
   },
-
+  {
+    id: "experience",
+    title: "Experience",
+  },
   {
     id: "contact",
     title: "Contact",
@@ -47,20 +50,20 @@ const portfolio = [
   {
     name: "Step 1",
     description:
-      "Go to the Google Drive Link https://drive.google.com/file/d/1fp5voobGazIM8B6N9DrbpgYpoUp4unWm/view?usp=drive_link" ,
-    // image: oscs,
+      "Go to Github https://github.com/NavalShah/Dextra" ,
+    image: oscs,
   },
   {
     name: "Step 2",
     description:
-      "Install and Unzip the file",
-    //image: devnotes,
+      "Download as zip, and Unzip the file",
+    image: devnotes,
   },
   {
     name: "Step 3",
     description:
-      "Run and take a peek!",
-    //image: devnotes,
+      "Run and take a peek! Make sure you have python installed!!",
+    image: algorithms,
   },
 
 ];

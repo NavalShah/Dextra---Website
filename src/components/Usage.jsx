@@ -54,7 +54,7 @@ const Usage = () => {
               For developers who prefer manual setup or want to modify the source code.
             </p>
             <div className='bg-black-100 p-4 rounded-lg'>
-              <code className='text-green-500'>git clone https://github.com/yourusername/dextra.git</code><br/>
+              <code className='text-green-500'>git clone https://github.com/NavalShah/dextra.git</code><br/>
               <code className='text-green-500'>cd dextra</code><br/>
               <code className='text-green-500'>pip install -r requirements.txt</code><br/>
               <code className='text-green-500'>python app.py</code>

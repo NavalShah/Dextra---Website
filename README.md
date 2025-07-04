@@ -201,7 +201,7 @@ pip install tensorflow numpy pandas scikit-learn
 ## Project Links
 
 - [GitHub Repository](https://github.com/NavalShah/Dextra)
-- [Live Demo](https://your-demo-link.com)
+- [Live Demo](https://dextra-inky.vercel.app/)
 
 ## Acknowledgments
 
